@@ -1,4 +1,4 @@
-package Atividade_Animal_Sala.Entidades;
+package Atividade_Animal.Entidades;
 
 public class Cachorro extends Animal {
 

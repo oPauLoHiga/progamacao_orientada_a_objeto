@@ -1,7 +1,7 @@
-package Atividade_Animal_Sala.Progama;
+package Atividade_Animal.Progama;
 
-import Atividade_Animal_Sala.Entidades.Cachorro;
-import Atividade_Animal_Sala.Entidades.Gato;
+import Atividade_Animal.Entidades.Cachorro;
+import Atividade_Animal.Entidades.Gato;
 
 public class Animais {
     public static void main(String[] args) {
