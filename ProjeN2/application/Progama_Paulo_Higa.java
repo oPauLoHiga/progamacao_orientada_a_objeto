@@ -34,12 +34,12 @@ public class Progama_Paulo_Higa {
             }
             cont++;
         }
-        System.out.println("*** Alunos Cadastrados ***");
+        System.out.println("---- Alunos Cadastrados ----");
         for(int i = 0; i < cont; i++){
             System.out.println("\nAlunos "+ (i+1));
             System.out.println(alunos[i]);
+            System.out.println("-----------------------------------");
         }
-
         sc.close();
     }
 }
