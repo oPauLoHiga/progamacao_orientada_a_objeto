@@ -15,4 +15,10 @@ public class Professor extends Pessoas {
     public String getEspecialidade() {return especialidade;}
 
     public void setEspecialidade(String especialidade) {this.especialidade = especialidade;}
+
+    @Override
+    public String toString() {
+        return "Professor [nome=" + getNome() + ", idade=" + getIdade() + ", genero=" + getGenero() + ", especialidade=" + especialidade + ", salario=" + salario + "]";
+    }
+
 }

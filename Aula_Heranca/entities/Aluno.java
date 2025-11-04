@@ -1,16 +1,22 @@
 package Aula_Heranca.entities;
 
 public class Aluno extends Pessoas{
-    private String matricula;
+    private int matricula;
     private String curso;
 
     public void cancelarMatricula(){
         System.out.println("Matricula cancelada");
     }
 
-    public String getMatricula() {return matricula;}
-    public void setMatricula(String matricula) {this.matricula = matricula;}
+    public int getMatricula() {return matricula;}
+    public void setMatricula(int matricula) {this.matricula = matricula;}
 
     public String getCurso() {return curso;}
     public void setCurso(String curso) {this.curso = curso;}
+
+    @Override
+    public String toString() {
+        return "Aluno [nome=" + getNome() + ", idade=" + getIdade() + ", genero=" + getGenero() + ", matricula=" + matricula + ", curso=" + curso + "]";
+    }
+
 }

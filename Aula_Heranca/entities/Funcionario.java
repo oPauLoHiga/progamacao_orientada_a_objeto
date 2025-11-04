@@ -13,4 +13,10 @@ public class Funcionario extends Pessoas {
 
     public boolean getTrabalhando() {return trabalhando;}
     public void setTrabalhando(boolean trabalhando) {this.trabalhando = trabalhando;}
+
+    @Override
+    public String toString() {
+        return "Funcionario [nome=" + getNome() + ", idade=" + getIdade() + ", genero=" + getGenero() + ", setor=" + setor + ", trabalhando=" + (trabalhando ? "Sim" : "Não") + "]";
+    }
+
 }

@@ -18,12 +18,4 @@ public class Pessoas {
     public String getGenero() {return genero;}
     public void setGenero(String genero) {this.genero = genero;}
 
-    @Override
-    public String toString() {
-        return "Pessoas{" +
-                "nome='" + nome + '\'' +
-                ", idade=" + idade +
-                ", genero='" + genero + '\'' +
-                '}';
-    }
 }
