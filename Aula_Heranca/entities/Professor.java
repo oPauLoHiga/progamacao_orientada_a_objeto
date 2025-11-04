@@ -1,16 +1,16 @@
 package Aula_Heranca.entities;
 
 public class Professor extends Pessoas {
-    private double salario;
+    private Float salario;
     private String especialidade;
 
-    public void receberAumento(double aumento){
+    public void receberAumento(float aumento){
         this.salario += aumento;
     }
 
     public double getSalario() {return salario;}
 
-    public void setSalario(double salario) {this.salario = salario;}
+    public void setSalario(float salario) {this.salario = salario;}
 
     public String getEspecialidade() {return especialidade;}
 
