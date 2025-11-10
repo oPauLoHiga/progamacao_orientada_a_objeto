@@ -1,4 +1,4 @@
-package ProjeN2.entities;
+package Projeto_N2.entities;
 
 public class Graduacao_Paulo_GabrielJoao_Gabriel_Joao extends Pessoa_Paulo_Gabriel_Joao {
     private String cursoGraduacao;

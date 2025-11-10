@@ -1,5 +1,5 @@
-package livraria.app;
-import livraria.entities.Livro;
+package Livraria.app;
+import Livraria.entities.Livro;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
-package ProjeN2.application;
-import ProjeN2.entities.*;
+package Projeto_N2.application;
+import Projeto_N2.entities.*;
 import java.util.Scanner;
 
 public class Progama_Paulo_Gabriel_Joao {

@@ -1,4 +1,4 @@
-package basico;
+package Basico;
 import java.util.Scanner;
 public class progama_vetor {
     public static void main(String[] args) {

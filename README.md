@@ -1,23 +1,33 @@
 # Progamação Orientada a Objeto
-Atividades do curso Ciencias da Computação
+POO - Progamação Orietada a Objeto
 
-### basico
-- Class M calculadora
-- Class M concessionaria
-- Class M lanchonete
-- Class M progama vetor
+Atividades do curso de Ciencias da Computação
 
-### livraria
+### Basico
+- Class Main calculadora
+- Class Main concessionaria
+- Class Main lanchonete
+- Class Main progama_vetor
+
+### Livraria
 - app - Class Main Progama
 - entities - Class Livro
 
-### n1
+### Atividade_Animal
+- Entidades - Class Animal / Class Cachorro / Class Gato
+- Progama - Class Main Animais
+
+### Aula_Heranca
+- application - Class Main Progama
+- entities - Class Aluno / Class Funcionario / Class Pessoa / Class Professor
+
+### N1_Projeto
 Avaliação 1
 - n1_at1 - "Colegio"
 - n1_at2 - "Restaurante"
 
-### ProjeN2
-Avaliação 2 "incompleta"
+### Projeto_N2
+Avaliação 2 
 - application - Class Main Progama
 - entities - Class Graduacao / Class Pessoas / Class PosGraduacao
 

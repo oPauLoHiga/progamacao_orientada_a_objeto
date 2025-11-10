@@ -1,4 +1,4 @@
-package ProjeN2.entities;
+package Projeto_N2.entities;
 
 public class Pessoa_Paulo_Gabriel_Joao {
     private String nome;
