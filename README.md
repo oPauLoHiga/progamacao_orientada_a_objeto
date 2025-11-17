@@ -30,4 +30,3 @@ Avaliação 1
 Avaliação 2 
 - application - Class Main Progama
 - entities - Class Graduacao / Class Pessoas / Class PosGraduacao
-
