@@ -26,7 +26,7 @@ public class Progama_Paulo_Gabriel_Joao {
 
             switch (opcao) {
                 case 1:
-                    Graduacao_Paulo_GabrielJoao_Gabriel_Joao graduacao = new Graduacao_Paulo_GabrielJoao_Gabriel_Joao();
+                    Graduacao_Paulo_Gabriel_Joao graduacao = new Graduacao_Paulo_Gabriel_Joao();
                     graduacao.setNome(nome);
                     graduacao.setCpf(cpf);
                     graduacao.setMatricula(matricula);
